@@ -1,3 +1,4 @@
+#QR Code Generator
 # A simple Python project that can **generate** QR codes from text/URLs and **decode** them back from saved images
 
 ## Features
